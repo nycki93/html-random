@@ -1,5 +1,7 @@
 # multi slot randomizer
 
+demo: <https://nycki93.github.io/html-random/>
+
 ## setup
 
 download this project and put it in a folder somewhere.
